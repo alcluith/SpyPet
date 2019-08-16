@@ -1,6 +1,7 @@
 # SpyPet
 A cryptographic virtual pet on your desktop (N.B. level of encryption not very high :wink: )
-![spypet](spypet-encrypt.png)
+
+![spypet](spy-pets.png)
 
 SpyPet is a mashup of two projects from "Computer Coding Projects for Kids": Screen Pet and Secret Messages.  SpyPet sits on your desktop, blinking aimiably and looking like any other mild-mannered virtual pet.  But a secret key combination reveals his hidden identity as a spy who can encrypt and decrypt secret messages to send to your friends.
 
